@@ -185,7 +185,7 @@ WHATCODE_WAKEWORD_PHRASES=герта,великая герта,эй герта,a
 Требования: Rust 1.82+ (см. `rust-toolchain.toml`), для Python-legacy-модулей — Python 3.11+ и Ollama.
 
 ```bash
-git clone https://github.com/vadim-khristenko/WhatCode.git
+git clone https://github.com/VAIPROG/WhatCode.git
 cd WhatCode
 cargo build --release
 ./target/release/whatcode --help
@@ -197,7 +197,7 @@ cargo build --release
 
 ## Авторы и лицензия
 
-- Rust-версия: **Vadim Khristenko** ([Telegram](https://t.me/vscreator_life)).
+- Rust-версия: **VAI_PROG (Vadim)** ([Telegram](https://t.me/vscreator_life)).
 - Оригинальный проект (Python): **phaeton_oq** ([GitHub](https://github.com/phaeton-oq/The-Herta-voice-assistant)).
 - Лицензия: MIT.
 

@@ -22,7 +22,7 @@
           doCheck = true;
           meta = with pkgs.lib; {
             description = "WhatCode — ассистент для разработки и TUI на Rust с выбираемыми персонами";
-            homepage = "https://github.com/vadim-khristenko/WhatCode";
+            homepage = "https://github.com/VAIPROG/WhatCode";
             license = licenses.mit;
             mainProgram = "whatcode";
           };

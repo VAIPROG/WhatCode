@@ -2,7 +2,7 @@
 
 ## Rust-версия
 
-Rust-порт «Великой Герты» разрабатывает **Vadim Khristenko**.
+Rust-порт «Великой Герты» разрабатывает **VAI_PROG (Vadim)**.
 
 - Telegram: <https://t.me/vscreator_life>
 

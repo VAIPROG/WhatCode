@@ -137,6 +137,6 @@
   на 3 ОС, тулчейн закреплён на 1.96.0.
 
 ### Авторы
-- Rust-версия — Vadim Khristenko (<https://t.me/vscreator_life>).
+- Rust-версия — VAI_PROG (Vadim) (<https://t.me/vscreator_life>).
 - Оригинал (Python) — phaeton_oq
   (<https://github.com/phaeton-oq/The-Herta-voice-assistant>, <https://t.me/cmd_phaeton_oq>).

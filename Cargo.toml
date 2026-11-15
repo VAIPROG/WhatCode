@@ -19,7 +19,7 @@ edition = "2021"
 rust-version = "1.82"
 license = "MIT"
 authors = ["VAI PROG <vadim@vai-rice.space>"]
-repository = "https://github.com/vadim-khristenko/WhatCode"
+repository = "https://github.com/VAIPROG/WhatCode"
 description = "WhatCode — hyper-performant Rust coding assistant & TUI with selectable personas"
 
 [workspace.dependencies]
